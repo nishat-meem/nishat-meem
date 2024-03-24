@@ -1,7 +1,7 @@
-
+[linkedin]: https://www.linkedin.com/in/nishat-meem/
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">My Name is Nishat 😀</h1>
-<h4 align="center">I am a Data Scientist</h4>
+<h4 align="center" style="display:inline-block;">I am a Data Scientist. You can also find me on: <a href="https://www.linkedin.com/in/nishat-meem/"> <img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" ></a></h4>
 
 ### I have technical experience and interest in:
 * Data Science
