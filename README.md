@@ -7,8 +7,8 @@
 * Data Science
 * Deep Learning
 * Machine Learning
-* Computer vision 
 * Natural Language Processing
+* Computer vision 
 * MLOps
 * Generative AI 
 
