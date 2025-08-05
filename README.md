@@ -9,7 +9,6 @@
 * Machine Learning
 * Natural Language Processing
 * Computer vision 
-* MLOps
 * Generative AI 
 
 <h3 align="left">Languages and Tools:</h3>
